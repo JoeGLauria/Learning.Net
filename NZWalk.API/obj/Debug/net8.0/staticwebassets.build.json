@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "U7TD5pWFZKgqlAUCE7vmOWD0pct+viMuMqlh8aEd1zQ=",
+  "Source": "NZWalk.API",
+  "BasePath": "_content/NZWalk.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
