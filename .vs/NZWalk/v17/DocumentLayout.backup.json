@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VN421BT\\OneDrive - EY\\Documents\\ASP.NET\\NZWalks\\NZWalk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|c:\\users\\vn421bt\\onedrive - ey\\documents\\asp.net\\nzwalks\\nzwalk\\nzwalk.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|c:\\users\\vn421bt\\onedrive - ey\\documents\\asp.net\\nzwalks\\nzwalk\\nzwalk.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|c:\\users\\vn421bt\\onedrive - ey\\documents\\asp.net\\nzwalks\\nzwalk\\nzwalk.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|c:\\users\\vn421bt\\onedrive - ey\\documents\\asp.net\\nzwalks\\nzwalk\\nzwalk.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2505946D-0A40-4A52-B502-CD878FE1D880}|NZWalk.API\\NZWalk.API.csproj|c:\\users\\vn421bt\\onedrive - ey\\documents\\asp.net\\nzwalks\\nzwalk\\nzwalk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Walk.cs",
               "DocumentMoniker": "C:\\Users\\VN421BT\\OneDrive - EY\\Documents\\ASP.NET\\NZWalks\\NZWalk\\NZWalk.API\\Models\\Domain\\Walk.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Walk.cs",
               "ToolTip": "C:\\Users\\VN421BT\\OneDrive - EY\\Documents\\ASP.NET\\NZWalks\\NZWalk\\NZWalk.API\\Models\\Domain\\Walk.cs",
               "RelativeToolTip": "NZWalk.API\\Models\\Domain\\Walk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:37:14.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\VN421BT\\OneDrive - EY\\Documents\\ASP.NET\\NZWalks\\NZWalk\\NZWalk.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Region.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "NZWalk.API\\Models\\Domain\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:34:51.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T16:34:51.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "C:\\Users\\VN421BT\\OneDrive - EY\\Documents\\ASP.NET\\NZWalks\\NZWalk\\NZWalk.API\\Models\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Difficulty.cs",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "NZWalk.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T16:24:18.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T16:24:18.183Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "NZWalk.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:29:00.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:29:00.251Z"
             }
           ]
         }
