@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "NZWalk.API.Controllers.RegionsController",
+    "Method": "Create",
+    "RelativePath": "api/Regions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addRegionRequestDto",
+        "Type": "NZWalk.API.Models.DTOs.AddRegionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NZWalk.API.Controllers.RegionsController",
     "Method": "GetById",
     "RelativePath": "api/Regions/{id}",
     "HttpMethod": "GET",
