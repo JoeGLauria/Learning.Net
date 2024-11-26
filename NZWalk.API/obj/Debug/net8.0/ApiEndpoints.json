@@ -42,6 +42,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "NZWalk.API.Controllers.RegionsController",
+    "Method": "Update",
+    "RelativePath": "api/Regions/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateRegionRequestDto",
+        "Type": "NZWalk.API.Models.DTOs.UpdateRegionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "NZWalk.API.Controllers.StudentsController",
     "Method": "GetAllStudents",
     "RelativePath": "api/Students",
